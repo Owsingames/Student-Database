@@ -1,0 +1,13 @@
+D:\GrandCircus\Week2\Lab8 - Student Database\Lab8 - Student Database\bin\Debug\netcoreapp3.1\Lab8 - Student Database.exe
+D:\GrandCircus\Week2\Lab8 - Student Database\Lab8 - Student Database\bin\Debug\netcoreapp3.1\Lab8 - Student Database.deps.json
+D:\GrandCircus\Week2\Lab8 - Student Database\Lab8 - Student Database\bin\Debug\netcoreapp3.1\Lab8 - Student Database.runtimeconfig.json
+D:\GrandCircus\Week2\Lab8 - Student Database\Lab8 - Student Database\bin\Debug\netcoreapp3.1\Lab8 - Student Database.runtimeconfig.dev.json
+D:\GrandCircus\Week2\Lab8 - Student Database\Lab8 - Student Database\bin\Debug\netcoreapp3.1\Lab8 - Student Database.dll
+D:\GrandCircus\Week2\Lab8 - Student Database\Lab8 - Student Database\bin\Debug\netcoreapp3.1\Lab8 - Student Database.pdb
+D:\GrandCircus\Week2\Lab8 - Student Database\Lab8 - Student Database\obj\Debug\netcoreapp3.1\Lab8 - Student Database.csprojAssemblyReference.cache
+D:\GrandCircus\Week2\Lab8 - Student Database\Lab8 - Student Database\obj\Debug\netcoreapp3.1\Lab8 - Student Database.AssemblyInfoInputs.cache
+D:\GrandCircus\Week2\Lab8 - Student Database\Lab8 - Student Database\obj\Debug\netcoreapp3.1\Lab8 - Student Database.AssemblyInfo.cs
+D:\GrandCircus\Week2\Lab8 - Student Database\Lab8 - Student Database\obj\Debug\netcoreapp3.1\Lab8 - Student Database.csproj.CoreCompileInputs.cache
+D:\GrandCircus\Week2\Lab8 - Student Database\Lab8 - Student Database\obj\Debug\netcoreapp3.1\Lab8 - Student Database.dll
+D:\GrandCircus\Week2\Lab8 - Student Database\Lab8 - Student Database\obj\Debug\netcoreapp3.1\Lab8 - Student Database.pdb
+D:\GrandCircus\Week2\Lab8 - Student Database\Lab8 - Student Database\obj\Debug\netcoreapp3.1\Lab8 - Student Database.genruntimeconfig.cache
